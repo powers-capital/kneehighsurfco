@@ -81,7 +81,7 @@
     "gdpr": false,
     "uniqCompNum": 19,
     "versionPublish": "5.3.0",
-    "publishChangesOnly": false,
+    "publishChangesOnly": true,
     "cookiesAlert": false,
     "screenshot": "screenshot.png"
   },
